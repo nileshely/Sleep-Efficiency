@@ -1,6 +1,4 @@
-# Sleep Efficiency
-
-**Sleep Efficiency Dataset Analysis Report**
+# Sleep Efficiency Dataset Analysis Report
 
 **Introduction:**
 This report presents an analysis of a dataset containing information about the sleep patterns of a group of test subjects. The dataset includes various factors such as age, gender, bedtime, wakeup time, sleep duration, sleep efficiency, sleep stages, awakenings, caffeine and alcohol consumption, smoking status, and exercise frequency. The goal of this analysis is to gain insights into the sleep patterns and factors affecting sleep efficiency among the test subjects.
